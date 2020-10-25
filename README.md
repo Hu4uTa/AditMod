@@ -1,2 +1,2 @@
 # AditMod
-AditMod, a mod for Terraria using tModLoader
+AditMod, мод для игры Terraria(v1.3.5.3), работающий на основе tModLoader API.
